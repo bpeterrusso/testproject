@@ -1,3 +1,3 @@
-dsadsf
-firstpython.py
-(print)yes
+#Display the output
+
+print("New Python File")
